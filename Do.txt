@@ -1,1 +1,4 @@
 Para fazer.
+
+Projeto que seu obejtivo é destruir informações e se auto destruir junto, tipo uma bomba.
+A ideia ainda esta em desenvolvimento (esperando tempo para poder mexer nela novamente), mas, penso em algo como um contador de tempo que mesmo em off, calcularia e ao chegar a zero, faria uma limpeza em disco, para impedir isso, teria que inserir uma espécie de senha para evitar que o processo final aconteça.
